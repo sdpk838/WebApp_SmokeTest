@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5617" started-at="2019-10-14T06:07:50Z" finished-at="2019-10-14T06:07:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5617" started-at="2019-10-14T06:07:50Z" finished-at="2019-10-14T06:07:56Z">
+      <class name="com.cai.webapp.testScript.WebApp_SmokeTest">
+        <test-method status="PASS" signature="Launch()[pri:0, instance:com.cai.webapp.testScript.WebApp_SmokeTest@5034c75a]" name="Launch" duration-ms="5591" started-at="2019-10-14T11:37:50Z" finished-at="2019-10-14T11:37:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch -->
+      </class> <!-- com.cai.webapp.testScript.WebApp_SmokeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
