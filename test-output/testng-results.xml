@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="5617" started-at="2019-10-14T06:07:50Z" finished-at="2019-10-14T06:07:56Z">
+  <suite name="Default suite" duration-ms="8159" started-at="2020-01-16T06:52:24Z" finished-at="2020-01-16T06:52:32Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="5617" started-at="2019-10-14T06:07:50Z" finished-at="2019-10-14T06:07:56Z">
+    <test name="Default test" duration-ms="8159" started-at="2020-01-16T06:52:24Z" finished-at="2020-01-16T06:52:32Z">
       <class name="com.cai.webapp.testScript.WebApp_SmokeTest">
-        <test-method status="PASS" signature="Launch()[pri:0, instance:com.cai.webapp.testScript.WebApp_SmokeTest@5034c75a]" name="Launch" duration-ms="5591" started-at="2019-10-14T11:37:50Z" finished-at="2019-10-14T11:37:56Z">
+        <test-method status="PASS" signature="Launch()[pri:0, instance:com.cai.webapp.testScript.WebApp_SmokeTest@5034c75a]" name="Launch" duration-ms="8138" started-at="2020-01-16T12:22:24Z" finished-at="2020-01-16T12:22:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Launch -->
