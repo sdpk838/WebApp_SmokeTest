@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
-  <test name="Default test(failed)">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.cai.webapp.testScript.WebApp_SmokeTest">
+      <class name="com.qa.webapp.testscripts.SpringBootSmokeTest">
         <methods>
-          <include name="Launch"/>
+          <include name="LaunchSpringBoot"/>
         </methods>
-      </class> <!-- com.cai.webapp.testScript.WebApp_SmokeTest -->
+      </class> <!-- com.qa.webapp.testscripts.SpringBootSmokeTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
