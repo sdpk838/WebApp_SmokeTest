@@ -2,35 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="8376" started-at="2020-01-17T13:23:27Z" finished-at="2020-01-17T13:23:36Z">
+  <suite name="Default suite" duration-ms="8423" started-at="2020-01-20T12:58:35Z" finished-at="2020-01-20T12:58:43Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="8376" started-at="2020-01-17T13:23:27Z" finished-at="2020-01-17T13:23:36Z">
-      <class name="com.qa.webapp.testscripts.SpringBootSmokeTest">
-        <test-method status="PASS" signature="reportSettings()[pri:0, instance:com.qa.webapp.testscripts.SpringBootSmokeTest@3e6fa38a]" name="reportSettings" is-config="true" duration-ms="97" started-at="2020-01-17T13:23:27Z" finished-at="2020-01-17T13:23:27Z">
+    <test name="Default test" duration-ms="8423" started-at="2020-01-20T12:58:35Z" finished-at="2020-01-20T12:58:43Z">
+      <class name="com.cai.webapp.testScript.WebApp_SmokeTest">
+        <test-method status="PASS" signature="Launch()[pri:0, instance:com.cai.webapp.testScript.WebApp_SmokeTest@5034c75a]" name="Launch" duration-ms="8406" started-at="2020-01-20T18:28:35Z" finished-at="2020-01-20T18:28:43Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- reportSettings -->
-        <test-method status="PASS" signature="LaunchSpringBoot()[pri:0, instance:com.qa.webapp.testscripts.SpringBootSmokeTest@3e6fa38a]" name="LaunchSpringBoot" duration-ms="8100" started-at="2020-01-17T13:23:27Z" finished-at="2020-01-17T13:23:36Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- LaunchSpringBoot -->
-        <test-method status="PASS" signature="reportTearDown(org.testng.ITestResult)[pri:0, instance:com.qa.webapp.testscripts.SpringBootSmokeTest@3e6fa38a]" name="reportTearDown" is-config="true" duration-ms="1" started-at="2020-01-17T13:23:36Z" finished-at="2020-01-17T13:23:36Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=LaunchSpringBoot status=SUCCESS method=SpringBootSmokeTest.LaunchSpringBoot()[pri:0, instance:com.qa.webapp.testscripts.SpringBootSmokeTest@3e6fa38a] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- reportTearDown -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.qa.webapp.testscripts.SpringBootSmokeTest@3e6fa38a]" name="afterClass" is-config="true" duration-ms="166" started-at="2020-01-17T13:23:36Z" finished-at="2020-01-17T13:23:36Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterClass -->
-      </class> <!-- com.qa.webapp.testscripts.SpringBootSmokeTest -->
+        </test-method> <!-- Launch -->
+      </class> <!-- com.cai.webapp.testScript.WebApp_SmokeTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
